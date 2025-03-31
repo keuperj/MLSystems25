@@ -19,7 +19,10 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 <details>
 <summary> <H2> Woche 3 - MapReduce </H2><BR></summary>
 
-### Aufgaben
+### Labor
 * [Python MapReduce](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_3/Assignment_MapReduce.ipynb)
+
+### Aufgaben
+
 * [Aufgabe 2 - Parallel MapReduce](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_3/Assignment_Parallel_MapReduce.ipynb)
 </details>
