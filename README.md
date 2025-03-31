@@ -15,3 +15,12 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 ### Aufgaben
 * [Aufgabe 1 - Parallel Matrix Multiplication](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_2/Aufgabe_1.ipynb)
 </details>
+
+<details>
+<summary> <H2> Woche 3 - MapReduce </H2><BR></summary>
+
+
+
+### Aufgaben
+* [Aufgabe 2 - Parallel Matrix Multiplication](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_2/Aufgabe_1.ipynb)
+</details>
