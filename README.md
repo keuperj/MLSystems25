@@ -26,3 +26,12 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 
 * [Aufgabe 2 - Parallel MapReduce](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_3/Assignment_Parallel_MapReduce.ipynb)
 </details>
+
+<details>
+<summary> <H2> Woche 4 - Hadoop </H2><BR></summary>
+
+### Labor
+* [MR Joblib](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_4/Assignment_MRJOBLIB.ipynb)
+* [Hive](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_4/Assignment_Hive.ipynb)
+
+</details>
