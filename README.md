@@ -32,6 +32,6 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 
 ### Labor
 * [MR Joblib](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_4/Assignment_MRJOBLIB.ipynb)
-* [Hive](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_4/Assignment_Hive.ipynb)
+
 
 </details>
