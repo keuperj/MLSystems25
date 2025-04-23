@@ -35,3 +35,15 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 
 
 </details>
+
+<details>
+<summary> <H2> Woche 5  </H2><BR></summary>
+
+### Vorlesung: DASK
+* [Interactive DASK Slides](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_5/DASK.ipynb)
+  
+### Labor
+
+
+
+</details>
