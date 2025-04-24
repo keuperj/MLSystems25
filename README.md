@@ -43,6 +43,7 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 * [Interactive DASK Slides](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_5/DASK.ipynb)
   
 ### Labor
+* [Aufgabe](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_5/PySpark.ipynb)
 
 
 
