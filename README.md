@@ -48,7 +48,6 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 * [Dask Delayed](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_5/03_dask.delayed.ipynb)
 * [Dask Distributed](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_5/04_distributed.ipynb)
 
-### Aufgabe
-
+### Abgabe: DataFrames + Arrays Lösungen
 
 </details>
