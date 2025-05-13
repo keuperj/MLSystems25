@@ -51,3 +51,20 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 ### Abgabe: DataFrames + Arrays Lösungen
 
 </details>
+
+<details>
+<summary> <H2> Woche 6  - DL Ops + CUDA </H2><BR></summary>
+
+## Labor
+
+### Aufagben
+
+</details>
+
+<details>
+<summary> <H2> Woche 7  - RAPIDS </H2><BR></summary>
+
+## Demo Vorlesung
+
+
+</details>
