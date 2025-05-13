@@ -56,6 +56,11 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 <summary> <H2> Woche 6  - DL Ops + CUDA </H2><BR></summary>
 
 ## Labor
+### C in a Nutshell
+* c Tutorial I
+* [C Cheat-Sheet](https://quickref.me/c.html)
+
+### CUDA
 * [CUDA Tutorial](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_6/CUDA_Intro.ipynb)
 
 
