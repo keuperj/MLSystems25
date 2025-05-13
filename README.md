@@ -66,6 +66,6 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 
 ## Demo Vorlesung
 * [RAPIDS CuML Demo](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_7/Rapids_intro.ipynb)
-* [CUml Benchmarks](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_7/cuml_benchmarks.ipynb) 
+* [RAPIDS CuML Benchmarks](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_7/cuml_benchmarks.ipynb) 
 
 </details>
