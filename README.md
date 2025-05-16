@@ -63,6 +63,12 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 ### CUDA
 * [CUDA Tutorial](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_6/CUDA_Intro.ipynb)
 
+## optional resources
+### in Depth CUDA
+* [official NVIDIA CUDA Tutorial](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
+  
+### Learning C/C++
+* [C++ Fundamentals - PDF Book + Slides + interactive Notebooks](https://github.com/rambasnet/CPP-Fundamentals/tree/main)
 
 </details>
 
@@ -70,7 +76,9 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 <summary> <H2> Woche 7  - RAPIDS </H2><BR></summary>
 
 ## Demo Vorlesung
+
 * [RAPIDS CuML Demo](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_7/Rapids_intro.ipynb)
 * [RAPIDS CuML Benchmarks](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_7/cuml_benchmarks.ipynb) 
+
 
 </details>
