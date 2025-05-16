@@ -58,6 +58,7 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 ## Labor
 ### C in a Nutshell
 * [C Cheat-Sheet](https://quickref.me/c.html)
+* [Short C Tutorial](https://github.com/8greg8/interactive_c_tutorial/tree/master) [Start in BINDER](https://mybinder.org/v2/gh/8greg8/c_tutorial/master?urlpath=lab)
 * [Memory Management in C](https://github.com/rambasnet/CPP-Fundamentals/blob/main/Pointers.ipynb)
 
 ### CUDA
