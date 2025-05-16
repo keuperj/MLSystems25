@@ -57,7 +57,6 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 
 ## Labor
 ### C in a Nutshell
-* c Tutorial I
 * [C Cheat-Sheet](https://quickref.me/c.html)
 
 ### CUDA
