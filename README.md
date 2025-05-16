@@ -58,6 +58,7 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 ## Labor
 ### C in a Nutshell
 * [C Cheat-Sheet](https://quickref.me/c.html)
+* [Memory Management in C](https://github.com/rambasnet/CPP-Fundamentals/blob/main/Pointers.ipynb)
 
 ### CUDA
 * [CUDA Tutorial (Assignment)](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_6/CUDA_Intro.ipynb)
