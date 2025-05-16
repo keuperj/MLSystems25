@@ -60,7 +60,7 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 * [C Cheat-Sheet](https://quickref.me/c.html)
 
 ### CUDA
-* [CUDA Tutorial](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_6/CUDA_Intro.ipynb)
+* [CUDA Tutorial (Assignment)](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_6/CUDA_Intro.ipynb)
 
 ## optional resources
 ### in Depth CUDA
