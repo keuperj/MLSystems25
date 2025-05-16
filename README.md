@@ -68,6 +68,7 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
   
 ### Learning C/C++
 * [C++ Fundamentals - PDF Book + Slides + interactive Notebooks](https://github.com/rambasnet/CPP-Fundamentals/tree/main)
+* [interactive C/C++ Pointer Tutorial](https://pythontutor.com/cpp.html#mode=display)
 
 </details>
 
