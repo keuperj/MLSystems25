@@ -83,3 +83,14 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 
 
 </details>
+
+<details>
+<summary> <H2> Woche 8  - DL Hardware </H2><BR></summary>
+
+## Lab
+
+### TPU Programming 
+* TBA
+
+
+</details>
