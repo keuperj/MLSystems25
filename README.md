@@ -83,6 +83,9 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 
 ### Lab
 * [Rapids](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_7/Rapids_intro.ipynb)
+
+### Assignment
+* [Example: NY Taxi Fare prediction on CPU](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_1/UseCase_NY_Taxi.ipynb)
 * [Assignment: NY Taxi](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_7/NY_Taxi_Rapids.ipynb)
 
 </details>
