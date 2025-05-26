@@ -81,6 +81,9 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 * [RAPIDS CuML Demo](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_7/Rapids_intro.ipynb)
 * [RAPIDS CuML Benchmarks](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_7/cuml_benchmarks.ipynb) 
 
+### Lab
+* [Rapids](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_8/Rapids_intro.ipynb)
+* [Assignment: NY Taxi](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_8/NY_Taxi_Rapids.ipynb)
 
 </details>
 
