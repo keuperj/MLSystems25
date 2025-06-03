@@ -96,7 +96,11 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 ## Lab
 
 ### TPU Programming 
-* TBA
+* [TPU Tutorial](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_8/Getting_Started_with_PyTorch_on_Cloud_TPUs.ipynb)
+* [TPU MNIST example](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_8/PyTorch_TPU_MNIST_Training.ipynb)
+* [TPU ResNet-50 inference](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_8/PyTorch_TPU_ResNet50_Inference.ipynb)
+* [TPU Profiling](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_8/PyTorch_XLA_Profling_Colab_Tutorial.ipynb)
+
 
 
 </details>
