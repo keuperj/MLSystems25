@@ -106,11 +106,21 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 </details>
 
 <details>
-<summary> <H2> Woche 9  - Scaling DL </H2><BR></summary>
+<summary> <H2> Woche 9  - Scaling DL I</H2><BR></summary>
 
 ## Lab
 * PyTorch Multi-GPU
 * Horovod
+
+
+
+</details>
+
+<details>
+<summary> <H2> Woche 10  - Scaling DL II</H2><BR></summary>
+
+## Lab
+* LLAMA
 
 
 
