@@ -109,8 +109,8 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 <summary> <H2> Woche 9  - Scaling DL </H2><BR></summary>
 
 ## Lab
-* PyTorch Multi-GPU
-* Horovod
+* [PyTorch Multi-GPU training (single Node)](https://docs.pytorch.org/tutorials/beginner/ddp_series_multigpu.html)
+* [Horovod tutorial](https://horovod.ai/getting-started/)
 
 
 
@@ -119,8 +119,18 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 <details>
 <summary> <H2> Woche 10  - Inference I</H2><BR></summary>
 
-## Lab
+## Vorlesung
+* [Paper: Lottery Ticket Hypothesis](https://arxiv.org/pdf/1803.03635)
+* [PyTorch Pruning Tutorial](https://docs.pytorch.org/tutorials/intermediate/pruning_tutorial.html)
+* [Evolutionary Algorithms: EvoTorch](https://evotorch.ai/)
 
+## Lab
+### ONNX
+* [ONNX example]()
+### TensorRT
+* [TensorRT Documentation](https://developer.nvidia.com/tensorrt-getting-started)
+* [TensorRT QuickStart Guide](https://docs.nvidia.com/deeplearning/tensorrt/latest/getting-started/quick-start-guide.html)
+* 
 
 </details>
 
