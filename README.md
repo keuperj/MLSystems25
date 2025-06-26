@@ -130,14 +130,14 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 ### TensorRT
 * [TensorRT Documentation](https://developer.nvidia.com/tensorrt-getting-started)
 * [TensorRT QuickStart Guide](https://docs.nvidia.com/deeplearning/tensorrt/latest/getting-started/quick-start-guide.html)
-* 
+  
 
 </details>
 
 <details>
 <summary> <H2> Woche 11  - Inference II</H2><BR></summary>
 
-## Lab
+## Vorlesung
 
 
 </details>
