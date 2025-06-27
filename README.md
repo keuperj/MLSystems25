@@ -143,6 +143,7 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 <summary> <H2> Woche 11  - Inference II</H2><BR></summary>
 
 ## Vorlesung
-
+* [OLLAMA](https://ollama.com/)
+* [VLLM](https://vllm.ai/)
 
 </details>
