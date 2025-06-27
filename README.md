@@ -126,10 +126,15 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS25
 
 ## Lab
 ### ONNX
-* [ONNX example]()
+* [ONNX example](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_10/onnx_tutorial.ipynb)
+### Pytorch Pruning
+* [Pytorch Pruning example](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_10/pruning_tutorial.ipynb)
+### Pytorch Compile
+* [Torch Compile example](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_10/torch_compile_tutorial.ipynb)
 ### TensorRT
 * [TensorRT Documentation](https://developer.nvidia.com/tensorrt-getting-started)
 * [TensorRT QuickStart Guide](https://docs.nvidia.com/deeplearning/tensorrt/latest/getting-started/quick-start-guide.html)
+* [TensorRT Tutorial](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_10/TensorRT_1.ipynb)
   
 
 </details>
